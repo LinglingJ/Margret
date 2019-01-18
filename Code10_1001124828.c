@@ -1,5 +1,6 @@
-/* Jessica Bao 1001124828 Coding Assignment 10 */
-
+/* Coding Assignment 10 */
+//Maze Game
+// Uses direction and map file.
 
 #include <stdio.h>
 #include <stdlib.h>
